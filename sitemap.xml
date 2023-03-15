@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://ragingbull.github.io/muyu/index.html</loc>
+    <loc>http://ragingbull.github.io/musics/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://ragingbull.github.io/musics/index.html</loc>
+    <loc>http://ragingbull.github.io/muyu/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -137,15 +137,6 @@
   </url>
   
   <url>
-    <loc>http://ragingbull.github.io/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ragingbull.github.io/fontawesome/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://ragingbull.github.io/categories/index.html</loc>
+    <loc>http://ragingbull.github.io/fcircle/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -165,6 +156,15 @@
   
   <url>
     <loc>http://ragingbull.github.io/bangumis/index.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ragingbull.github.io/categories/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
