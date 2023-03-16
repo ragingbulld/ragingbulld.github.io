@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/tags/index.html</loc>
+    <loc>https://cld.ccmod.cn/speaks/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/speaks/index.html</loc>
+    <loc>https://cld.ccmod.cn/tags/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -119,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/kongtiao/index.html</loc>
-    
-    <lastmod>2023-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cld.ccmod.cn/license/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
@@ -137,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/fontawesome/index.html</loc>
+    <loc>https://cld.ccmod.cn/kongtiao/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/categories/index.html</loc>
+    <loc>https://cld.ccmod.cn/fontawesome/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://cld.ccmod.cn/bangumis/index.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cld.ccmod.cn/categories/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
