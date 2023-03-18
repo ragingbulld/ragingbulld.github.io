@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/update/index.html</loc>
-    
-    <lastmod>2023-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cld.ccmod.cn/tools/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://cld.ccmod.cn/tags/index.html</loc>
+    <loc>https://cld.ccmod.cn/update/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -48,6 +39,15 @@
   
   <url>
     <loc>https://cld.ccmod.cn/speaks/index.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cld.ccmod.cn/tags/index.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     

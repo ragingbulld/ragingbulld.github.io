@@ -1,9 +1,9 @@
 https://cld.ccmod.cn/posts/4a17b156/
 https://cld.ccmod.cn/zaobao/index.html
-https://cld.ccmod.cn/update/index.html
 https://cld.ccmod.cn/tools/index.html
-https://cld.ccmod.cn/tags/index.html
+https://cld.ccmod.cn/update/index.html
 https://cld.ccmod.cn/speaks/index.html
+https://cld.ccmod.cn/tags/index.html
 https://cld.ccmod.cn/package.json
 https://cld.ccmod.cn/othersite/index.html
 https://cld.ccmod.cn/musics/index.html
